@@ -10,3 +10,13 @@
 section {
   padding-top: 5rem;
 }
+
+.navbar-brand {
+  font-family: "Sacramento", cursive;
+  font-size: 30px;
+}
+
+.display-4 {
+  font-family: "Sacramento", cursive;
+  font-size: 60px;
+}
